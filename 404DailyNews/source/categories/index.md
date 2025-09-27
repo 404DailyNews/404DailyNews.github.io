@@ -1,0 +1,6 @@
+---
+title: categories
+date: 2025-09-27 16:00:16
+type: "categories"
+layout: "categories"
+---
